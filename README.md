@@ -12,4 +12,4 @@ Clone the repo and run `npm run setup`, then `npm start -s`.
 - [x] various flavors of react components leveraging the store and props in different ways
 - [ ] implement test components and test reducer to handle SUBMIT_ANSWER action
 
-(http://imgur.com/0hM6Qld)
+(screenshot.png)
