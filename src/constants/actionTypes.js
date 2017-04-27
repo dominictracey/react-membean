@@ -1,0 +1,2 @@
+export const ANSWER_TEST_QUESTION = 'ANSWER_TEST_QUESTION';
+export const LOAD_WORDS = 'LOAD_WORDS';
